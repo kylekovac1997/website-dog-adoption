@@ -1,0 +1,68 @@
+{
+  "dogs": [
+    {
+      "petID": 1,
+      "name": "Buddy",
+      "age": 1,
+      "gender": "male",
+      "breed": "Rotweiler",
+      "image": "https://www.akc.org/wp-content/uploads/2017/11/Rottweiler-puppy-6-weeks-old-sitting-on-a-white-background.jpg",
+      "description": "asd",
+      "adopted": false,
+      "commented_out": false
+    },
+    {
+      "petID": 2,
+      "name": "Daisy",
+      "age": 2,
+      "gender": "female",
+      "breed": "Pug",
+      "image": "https://cdn.britannica.com/34/233234-050-1649BFA9/Pug-dog.jpg",
+      "description": "asd",
+      "adopted": true,
+      "commented_out": true
+    },
+    {
+      "petID": 3,
+      "name": "Rocky",
+      "age": 5,
+      "gender": "male",
+      "breed": "Doberman",
+      "image": "https://barkercise.com/wp-content/uploads/2023/03/joshua-daniel-63S5P1AW_Dg-unsplash-scaled.jpg",
+      "description": "asd",
+      "adopted": false,
+      "commented_out": false
+    },
+    {
+      "petID": 4,
+      "name": "Luna",
+      "age": 1,
+      "gender": "female",
+      "breed": "Staffy",
+      "image": "https://en.belpatt.fr/img/belpatt_races/Staffordshire-Bull-Terrier.jpg",
+      "description": "asd",
+      "adopted": false
+    },
+    {
+      "petID": 5,
+      "name": "Rudy",
+      "age": 3,
+      "gender": "female",
+      "breed": "labrador",
+      "image": "https://bowwowinsurance.com.au/wp-content/uploads/2018/10/chocolate-labrador-700x700.jpg",
+      "description": "asd",
+      "adopted": false
+    },
+    {
+      "petID": 6,
+      "name": "Turbo",
+      "age": 2,
+      "gender": "male",
+      "breed": "English Shepherd",
+      "image": "https://breed-assets.wisdompanel.com/dog/english-shepherd/English_Shepherd1.jpg",
+      "description": "asd",
+      "adopted": false,
+      "commented_out": false
+    }
+  ]
+}

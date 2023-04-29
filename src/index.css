@@ -1,0 +1,68 @@
+body{
+    max-width: 1200px;
+}
+
+#NavBarH1{
+    font-size: 50px;
+}
+
+#ahrefLinks > a{
+    margin-right: 100px;  
+    border-radius: 30%;
+    padding: 0.5px 2px; 
+}
+
+#ahrefLinks > a:hover{ 
+    background-color: orangered;
+}
+
+#home-Image-Container{  
+    height: 350px;
+}
+
+#home-Image-Container > img{
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+    width: 1200px;
+    
+}
+
+#Adoptions-Header-Image{
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+    width: 1200px;
+}
+
+#Adoptions-Title{
+    text-align: center;
+}
+
+#adoption-Card{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 0.5rem;
+}
+
+#adoptionsTiles:hover{
+    background: orangered;
+}
+
+#PetUrlHeader{
+    text-align: center;
+}
+
+#PetUrlImage{
+    text-align: center; 
+}
+
+#PetUrlImage > img{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#PetUrlInfo{
+    text-align: center;
+}
